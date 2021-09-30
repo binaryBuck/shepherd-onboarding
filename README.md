@@ -17,7 +17,6 @@ This will give you a copy of this repo for your own use. Only one person per gro
 ![Fork button](readmefigures/Settings_button.png)
 
 Lastly, you will need to clone the new repo onto your computer. Copy the link at the top right of the page:
-
 ![Download button](readmefigures/Download_button.png)
 
 and run `git clone <link>`. You can also optionally run `TODO`
